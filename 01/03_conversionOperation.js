@@ -26,8 +26,35 @@
 // console.log(numberToBool);
 
 
-let aNumber = 100;
-let numberToString = String(aNumber);
+// let aNumber = 100;
+// let numberToString = String(aNumber);
 
-console.log(numberToString);
-console.log(typeof(numberToString));
+// console.log(numberToString);
+// console.log(typeof(numberToString));
+
+/****************************  OPERATIONS  *******************************/ 
+
+let val = 3;
+let negValue = -val;
+// console.log(negValue);
+
+// console.log(2+2);
+// console.log(2+2);
+// console.log(2+2);
+// console.log(2**7);
+
+
+let name = 'Baishant';
+let cast = ' Pachhai';
+
+// console.log(name + cast);
+// console.log(1 + '1');
+// console.log('1' + '1');
+// console.log('1' + 2 + 2);
+// console.log(2 + 1 + '1');
+// console.log(true)
+
+// let gameCounter = 100;
+// ++gameCounter;
+// gameCounter++;
+// console.log(gameCounter);
