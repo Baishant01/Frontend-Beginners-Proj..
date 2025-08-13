@@ -1,0 +1,48 @@
+body {
+    height: 100dvh;
+
+    background-color: #282c34;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#clock_container {
+
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#clock_outer_ring {
+
+
+    width: 50%;;
+    aspect-ratio: 1;
+  
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid white;
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+}
+
+#clock{
+    display: flex;
+    font-size: 40px;
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#am_pm {
+    font-size: 20px;
+    margin-left: 5px;
+    color: #61dafb;
+}
