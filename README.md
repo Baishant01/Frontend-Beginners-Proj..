@@ -1,2 +1,3 @@
-# JS
-A code repo for js
+# Frontend Beginners Projects
+
+-> This repo contains some beginners frontend projects contained inside a folder.
